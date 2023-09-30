@@ -3,8 +3,10 @@
   -0~65535 할당 가능
   -0~1023: 잘 알려진 포트, 사용하지 않는 것이 좋음
     1)FTP: 20, 21
-    2) TELNET: 23
-    3) HTTP: 80
-    4) HTTPS: 443
+    2)TELNET: 23
+    3)HTTP: 80
+    4)HTTPS: 443
 
-<DNS>
+<DNS-도메인 네임 시스템(Domain Name System>
+  -전화번호부
+  -도메인 명을 IP주소로 변환
